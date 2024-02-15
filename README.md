@@ -1,16 +1,39 @@
-### Hi there 👋
+# Hello, I'm Ahmed Tamer 👋
 
-<!--
-**AhmeddTamerr/AhmeddTamerr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I am a computer science student passionate about software development. I enjoy working on  back-end, creating web applications using technologies like ASP.NET Core and SQL Server.
 
-Here are some ideas to get you started:
+## 🚀 Technologies
+- **Programming Languages:** C++, C#, JavaScript, Python
+- **Frontend Development:** HTML, CSS
+- **Database:** SQL Server
+- **Back-end Framework:** ASP.NET Core
+- **Object-Relational Mapping:** Entity Framework Core
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tools & Technologies
+- Visual Studio
+- Visual Studio Code
+- Git
+- GitHub
+
+## 🌱 I’m currently learning
+- Advanced Object-Relational Mapping using Entity FrameWork Core
+- Advanced Database Management System and Data Structure and Algorithms
+- Problem Solving
+
+## 🛠️ Projects
+### AutomotiveEcommercePlatform https://github.com/AhmeddTamerr/AutomotiveEcommercePlatform
+- Description: an online Website for Buying and selling cars.
+- Technologies Used: ASP.Net Core with React , Entity FrameWork Core , ASP.NET Web APIs , JWT Tokens For Authoization , Microsoft Identity for authentication .
+
+## 📫 Connect with Me
+- LinkedIn: https://www.linkedin.com/in/ahmed-tamer-a189b2251/
+- Email: ahmedtamer9255@gmail.com
+
+## 🎯 Goals
+- Contribute to open-source projects.
+- Learn and implement best software development practices.
+- Stay up-to-date with emerging technologies.
+
+Feel free to explore my repositories and reach out for collaboration or discussion!
+
